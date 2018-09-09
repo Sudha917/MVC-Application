@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMVCApp", "MyMVCApp\MyMVCApp.csproj", "{FC84EFB9-B195-444D-9613-38B1EDD713E9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MVCSetup", "MVCSetup\MVCSetup.vdproj", "{327F35E5-57A8-4695-863C-5B18F3ED49E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC84EFB9-B195-444D-9613-38B1EDD713E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC84EFB9-B195-444D-9613-38B1EDD713E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC84EFB9-B195-444D-9613-38B1EDD713E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC84EFB9-B195-444D-9613-38B1EDD713E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327F35E5-57A8-4695-863C-5B18F3ED49E0}.Debug|Any CPU.ActiveCfg = Debug
+		{327F35E5-57A8-4695-863C-5B18F3ED49E0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C118E1DD-9905-4963-BB6F-721B3DF6AC6E}
+	EndGlobalSection
+EndGlobal

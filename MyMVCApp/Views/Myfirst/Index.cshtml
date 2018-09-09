@@ -1,0 +1,13 @@
+﻿@model MyMVCApp.Models.Employee
+
+@{
+    ViewBag.Title = "Welcome";
+}
+
+<h2>Welcome</h2>
+<h2>My ID:     @Model.Id</h2><br/>
+<h3>My Name:   @Model.Ename</h3><br/>
+<h4>My Day:    @ViewData["Date"]</h4>
+@Html.Action("Index2")
+
+
